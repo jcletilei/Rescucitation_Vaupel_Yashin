@@ -75,7 +75,9 @@ res_all<-function (x,y,z) {
   
 }
 
+# check out the function
 
+den2
 
 # applying formula of states of rescusitation
 den_lt_f2<-den_lt_f[ , res_1:= res_all(lx,hazard,1), by=.(Age)]
