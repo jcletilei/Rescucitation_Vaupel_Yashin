@@ -32,7 +32,7 @@ ls(LT_m)
 LT_m
 
 #  just checking again whether the commits are working
-oh no.
+oh no
 
 
 #############################################
